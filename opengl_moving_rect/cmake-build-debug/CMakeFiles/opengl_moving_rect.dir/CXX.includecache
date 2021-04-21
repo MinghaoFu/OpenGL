@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fuminghao/CLionProjects/opengl_moving_rect/main.cpp
+stdio.h
+-
+stdlib.h
+-
+GL/glut.h
+-
+iostream
+-
+
