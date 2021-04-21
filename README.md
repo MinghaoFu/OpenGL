@@ -63,6 +63,26 @@ If a window pops up when you run the program, then OpenGL is working on your Ubu
 
 Thanks to http://www.codebind.com/linux-tutorials/install-opengl-ubuntu-linux/. 
 
+### Install SOIL
+First you have to install the soil library to use -lSOIL. To install the library use the command.
+```
+sudo apt-get install libsoil-dev
+```
+Then place the header file in your project directory and include it in your project file.
+```
+#include <SOIL/SOIL.h>
+```
+Now compile the project using gcc along with -lSOIL.
+
+You could test it bu running my code in opengl_texture use the command.
+```
+g++ main.cpp -o -lSOIL -lglut -lGLU -lGL
+```
+Output:
+
+![Output image](https://github.com/fmhzcm/OpenGL.git/opengl_texture/output.jpg)
+
+
 If you have some problems with my code,please send email to 1363947999@qq.com. 
 
 
