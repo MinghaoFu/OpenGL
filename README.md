@@ -74,7 +74,7 @@ Then place the header file in your project directory and include it in your proj
 ```
 Now compile the project using gcc along with -lSOIL.
 
-You could test it bu running my code in opengl_texture use the command.
+You could test it by running my code in opengl_texture use the command.
 ```
 g++ main.cpp -o -lSOIL -lglut -lGLU -lGL
 ```
