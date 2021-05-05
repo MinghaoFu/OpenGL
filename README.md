@@ -80,7 +80,7 @@ g++ main.cpp -o -lSOIL -lglut -lGLU -lGL
 ```
 Output:
 
-![Output image](https://github.com/fmhzcm/OpenGL/blob/main/opengl_texture/output.png)
+![Output image](https://github.com/fmhzcm/OpenGL/blob/main/texture/output.png)
 
 
 If you have some problems with my code,please send email to 1363947999@qq.com. 
