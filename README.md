@@ -82,6 +82,13 @@ Output:
 
 ![Output image](https://github.com/fmhzcm/OpenGL/blob/main/texture/output.png)
 
+### Particle system
+
+Well, particle system is my favourite project--Also, it cost my much time.If you want to compelte it by yourself,a efficient method is to see paper below.
+
+https://www.lri.fr/~mbl/ENS/IG2/devoir2/files/docs/fuzzyParticles.pdf
+
+However,I just add child particles to system,to attach a beautiful scale which the firework is dropping from sky.
 
 If you have some problems with my code,please send email to 1363947999@qq.com. 
 
