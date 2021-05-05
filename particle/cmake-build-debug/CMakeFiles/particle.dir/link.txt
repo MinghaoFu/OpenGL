@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/particle.dir/main.cpp.o  -o particle 

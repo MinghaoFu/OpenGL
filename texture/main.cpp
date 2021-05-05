@@ -43,7 +43,7 @@ int LoadGLTextures()
 {
     for (int i = 0; i < 2; i++)
     {
-        texture[i] = SOIL_load_OGL_texture("chess.jpg",SOIL_LOAD_AUTO,
+        texture[i] = SOIL_load_OGL_texture("lena.png",SOIL_LOAD_AUTO,
                                            SOIL_CREATE_NEW_ID,SOIL_FLAG_INVERT_Y);
     }
     if (texture[0] == 0)
