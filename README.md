@@ -1,7 +1,7 @@
 # OPENGL
 
 ## Introduction
-Welcome to Mr.Fell OpenGL repository,it includes some ineresting animation code which is completed by OpenGL. 
+Welcome to my OpenGL repository,it includes some ineresting animation code which is completed by OpenGL. 
 ### What is OpenGL
 OpenGL is a Graphics rendering API which is operating system independent, window system  independent and has high-quality color images composed of geometric and image primitives. 
 ### Install
